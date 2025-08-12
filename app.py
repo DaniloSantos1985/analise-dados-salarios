@@ -2,6 +2,11 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# Link para acessar a aplicação
+'''
+https://imersao-dados-salarios-alura-python-2025.streamlit.app/
+'''
+
 # --- Configuração da página ---
 # Define o título da página, o ícone e o layout para ocupar a largura inteira
 st.set_page_config(
